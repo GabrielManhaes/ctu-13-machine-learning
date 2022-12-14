@@ -4,6 +4,13 @@
 
 Dataset[1] criado pela Czech Technical University, misturando amostras reais de tráfego de botnets (Neris, Rbot, Virut, etc.) com tráfego não-malicioso e background.
 
+## `models/`
+
+Nesta pasta, estão presentes os modelos implementados:
+* Autoencoder
+* Variational Autoencoder
+* Stacked Autoencoders
+
 ## `preprocessing.py`
 
 Neste arquivo, estão presentes as etapas de concatenação, limpeza de dados, encoding, feature engineering e separação em treino e teste.
