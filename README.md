@@ -4,6 +4,10 @@
 
 Dataset[1] criado pela Czech Technical University, misturando amostras reais de tráfego de botnets (Neris, Rbot, Virut, etc.) com tráfego não-malicioso e background.
 
+## Resultados
+
+![image](https://user-images.githubusercontent.com/43486121/207976151-40db81ac-31cc-4d4f-a48b-52242782ca2e.png)
+
 ## Conteúdo do Repositório
 
 ### `models/`
