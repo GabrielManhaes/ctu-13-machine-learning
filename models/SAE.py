@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tensorflow import keras
+from keras.layers import Dense
 
 class Encoder(tf.keras.layers.Layer):
     """Implementação de Encoder com layers parametrizáveis"""
