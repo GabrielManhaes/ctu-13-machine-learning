@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tensorflow import keras
+from keras.layers import Dense
 
 class Sampling(tf.keras.layers.Layer):
     """Sampling de z a partir de z_mean e z_log_var."""
